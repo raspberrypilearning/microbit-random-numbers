@@ -1,6 +1,6 @@
 ## Random numbers in MakeCode
 
-Adding randomness to your programs is a great way to make your code just a little bit diferent everytime.
+A bit of randomness can help make your programs a little bit different every time they run, how exciting!
 
 You can find the <code style="background-color: #9400d3">pick random</code> block in the <code style="background-color: #9400d3">Math</code> menu of your Toolbox.
 
