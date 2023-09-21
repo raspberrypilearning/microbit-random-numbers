@@ -1,59 +1,13 @@
-## Introduction
+## Random numbers in MakeCode
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Adding randomness to your programs is a great way to make your code just a little bit diferent everytime.
 
-### What you will make
+You can find the <code style="background-color: #9400d3">pick random</code> block in the <code style="background-color: #9400d3">Math</code> menu of your Toolbox.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+<img src="images/random-location.png" alt="The Math menu open, with the 'pick random' block highlighted" width="350"/>
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Change the `0` and `10` to the range you want your random numbers to take.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+In order to use it in your programs you will have to create a <code style="background-color: #dc143c">Variable</code> to hold your random number. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+<div style="position:relative;height:calc(125px + 5em);width:100%;overflow:hidden;"><iframe style="position:relative;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:S92553-24531-21480-34085" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
