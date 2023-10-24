@@ -1,6 +1,6 @@
 ## Random numbers in MakeCode
 
-A bit of randomness can help make your programs a bit different every time they run, which adds to the excitement. 
+Some randomness can help make your programs a bit different every time they run, which adds to the excitement. 
 
 You can find the `pick random`{:class='microbitmath'} block in the `Math`{:class='microbitmath'} menu of your Toolbox.
 
