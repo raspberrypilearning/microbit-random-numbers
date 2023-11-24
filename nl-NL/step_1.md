@@ -1,14 +1,14 @@
-## Random numbers in MakeCode
+## Willekeurige getallen in MakeCode
 
-Some randomness can help make your programs a bit different every time they run, which adds to the excitement.
+Een beetje willekeurigheid kan je programma's een beetje anders maken elke keer dat ze draaien, waardoor het extra spannend wordt.
 
-You can find the `pick random`{:class='microbitmath'} block in the `Math`{:class='microbitmath'} menu of your Toolbox.
+Je kunt het blok `kies willekeurig`{:class='microbitmath'} vinden in het `Rekenen`{:class='microbitmath'} menu van je Toolbox.
 
 <img src="images/random-location.png" alt="The Math menu open, with the 'pick random' block highlighted." width="350"/>
 
-Change the `0` and `10` to the range you want your random numbers to take.
+Verander de `0` en `10` naar het bereik dat je wilt dat jouw willekeurige getallen aannemen.
 
-To use the random number in your program, you will also have to create a `Variable`{:class='microbitvariables'} to hold your random number.
+Om het willekeurige getal in je programma te gebruiken, moet je ook een `Variabele`{:class='microbitvariables'} maken om je willekeurig getal in op te slaan.
 
 ```microbit
 let tune = 0
