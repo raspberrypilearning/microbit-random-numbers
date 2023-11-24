@@ -1,10 +1,10 @@
-title: Random numbers
+title: Willekeurige getallen
 hero_image: images/banner.png
-description: How to generate random numbers in MakeCode
+description: Hoe willekeurige getallen te genereren in MakeCode
 version: 1
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
   - 
-    title: Random numbers in MakeCode
+    title: Willekeurige getallen in MakeCode
