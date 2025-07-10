@@ -1,1 +1,3 @@
 deuntje
+
+The Math menu open, with the 'pick random' block highlighted.
