@@ -1,14 +1,14 @@
-## Random numbers in MakeCode
+## Nombres aléatoires dans MakeCode
 
-Some randomness can help make your programs a bit different every time they run, which adds to the excitement.
+Un peu de hasard peut rendre ton programme un peu différent à chaque fois qu’il s’exécute, ce qui le rend encore plus amusant.
 
-You can find the `pick random`{:class='microbitmath'} block in the `Math`{:class='microbitmath'} menu of your Toolbox.
+Tu peux trouver le bloc `choisir au hasard`{:class='microbitmath'} dans le menu `Maths`{:class='microbitmath'} de ta boîte à outils.
 
 <img src="images/random-location.png" alt="The Math menu open, with the 'pick random' block highlighted." width="350"/>
 
-Change the `0` and `10` to the range you want your random numbers to take.
+Remplace `0` et `10` par la plage que tu veux que tes nombres aléatoires prennent.
 
-To use the random number in your program, you will also have to create a `Variable`{:class='microbitvariables'} to hold your random number.
+Pour utiliser le nombre aléatoire dans ton programme, tu devras également créer une `Variable`{:class='microbitvariables'} pour conserver ton nombre aléatoire.
 
 ```microbit
 let tune = 0
