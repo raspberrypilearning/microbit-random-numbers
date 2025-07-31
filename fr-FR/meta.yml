@@ -1,0 +1,10 @@
+---
+title: Nombres aléatoires
+hero_image: images/banner.png
+description: Comment générer des nombres aléatoires dans MakeCode
+version: 1
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Nombres aléatoires dans MakeCode
