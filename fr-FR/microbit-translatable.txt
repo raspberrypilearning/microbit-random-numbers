@@ -1,0 +1,3 @@
+musique
+
+Le menu Maths est ouvert, avec le bloc 'choisir au hasard' en surbrillance.
